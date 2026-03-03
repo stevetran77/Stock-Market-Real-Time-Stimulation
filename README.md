@@ -1,4 +1,4 @@
-# Stock Market Real-Time Stimulation Data Pipeline
+# Stock Market Real-Time Stimulation Data
 
 This project implements a real-time data pipeline for streaming and analyzing stock market data using Apache Airflow, Apache Kafka, Docker, and AWS. The pipeline simulates real-time stock updates, processes them, stores the results in an AWS S3 bucket, and uses AWS Glue Crawler and Data Catalog to make the data queryable via Amazon Athena.
 
